@@ -1,4 +1,4 @@
-Sponsorships from http://scoutapm.com
+Sponsorships from [Scout APM](http://scoutapm.com)
 --
 Supporting Open Source through GitHub Sponshorships :yellow_heart:
 
